@@ -1,6 +1,6 @@
 # React Furniture App UI
 
-A simple Ui based Furniture store app with some animation implemented in it using reanimated 3 t
+A Ui focused furniture store based with new Animated 3 features like Shared Element Transition 
 
 ## Built With
 
