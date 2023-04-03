@@ -25,7 +25,8 @@ A Ui focused furniture store based with new Animated 3 features like Shared Elem
 - `npm install `
 - `npm run android`
 
-**Note: Simple Flow Demo**
+
+**Simple Flow Demo**
 
 If you'd like to see a simple flow of the application, please follow the steps below:
 
@@ -38,5 +39,6 @@ _For iOS:_
 
 1. Ensure you have an iOS simulator or a connected device.
 2. Run the following command in your terminal:`npm run detox:test-ios`
+
 
 These commands will showcase a basic flow of the application on the respective platforms.
