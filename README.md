@@ -42,3 +42,6 @@ _For iOS:_
 
 
 These commands will showcase a basic flow of the application on the respective platforms.
+
+# Demo 
+https://user-images.githubusercontent.com/32339404/232209911-f0325368-a174-4e74-8e6d-d4ebd20c446e.mp4
